@@ -27,7 +27,7 @@ public class Mainpt2 {
             System.out.println("==================================");
             System.out.println("|     1. Add Customer            |");
             System.out.println("|     2. Create Order            |");
-            System.out.println("|     3. Add Flower to Order     |");
+            System.out.println("|     3. Update Flower to Order  |");
             System.out.println("|     4. Delete Flower from Order|");
             System.out.println("|     5. View All Orders         |");
             System.out.println("|     0. Exit                    |");
